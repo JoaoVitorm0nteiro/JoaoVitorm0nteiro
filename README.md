@@ -17,7 +17,7 @@
 </div>
 
 
- ### Repositorio com meus estudos em NODE.Js 👇
- https://github.com/JoaoVitorm0nteiro/NODEJs
+ ### Repositorio com meus estudos sobre JAVA/SPRINGBOOT 👇
+ https://github.com/JoaoVitorm0nteiro/ESTUDOS_JAVA_SPRINGBOOT
 
 <a href="mailto:joaovitormonteiro0104@gmail.com"></a>
